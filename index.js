@@ -7,8 +7,8 @@ app.listen(3000);
 
 function createBot() {
   const bot = mineflayer.createBot({
-    host: 'emerald.magmanode.com',
-    port: 26273,
+    host: 'ustamcserver.falix.gg',
+    port: 27329,
     username: 'Bot_Agalar',
     // version kısmını sildik, böylece otomatik algılar
   });
